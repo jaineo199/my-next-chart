@@ -12,6 +12,7 @@ import BubbleChartOneData from "../Data/bubbleChartOneData.json";
 import BubbleChartThreeData from "../Data/bubbleChartThreeData.json";
 import BubbleChartMainData from "../Data/bubbleChartMainData.json";
 
+ChartJS.defaults.borderColor = "rgba(243,243,243,0.50)";
 ChartJS.register(LinearScale, PointElement, Tooltip, Legend, LogarithmicScale);
 
 export default function App() {
