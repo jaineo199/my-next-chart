@@ -1,0 +1,5935 @@
+{
+  "data": {
+    "ProData": {
+      "this_period": [
+        {
+          "campaign_name": "PMAX - Shopping - US - 5",
+
+          "cost": 0,
+
+          "fa_revenue": 311539.5,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "PMAX - Shopping - US - 4",
+
+          "cost": 0,
+
+          "fa_revenue": 292314.8,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "US - PROS - CONVERSION - 8",
+
+          "cost": 24220.6,
+
+          "fa_revenue": 258677.3,
+
+          "fa_cpp": 16.1,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "UK- Search - BRND - 6",
+
+          "cost": 9257.4,
+
+          "fa_revenue": 229302.7,
+
+          "fa_cpp": 0.000012345,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "US- Search - GNRC - 62",
+
+          "cost": 34294.2,
+
+          "fa_revenue": 216583.7,
+
+          "fa_cpp": 26.9,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "US- Search - GNRC - 61",
+
+          "cost": 15742.1,
+
+          "fa_revenue": 137576.8,
+
+          "fa_cpp": 19.5,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "US- Search - GNRC - 63",
+
+          "cost": 24818.4,
+
+          "fa_revenue": 137068.8,
+
+          "fa_cpp": 31.2,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "UK - PROS - CONVERSION - 11",
+
+          "cost": 74719.8,
+
+          "fa_revenue": 130088.7,
+
+          "fa_cpp": 35.7,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "US - PROS - CONVERSION - 9",
+
+          "cost": 6165.2,
+
+          "fa_revenue": 115101.9,
+
+          "fa_cpp": 9.2,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "US - RTRG - CONVERSION - 24",
+
+          "cost": 25498.8,
+
+          "fa_revenue": 95988.3,
+
+          "fa_cpp": 45.4,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "UK - RTRG - CONVERSION - 7",
+
+          "cost": 32921.3,
+
+          "fa_revenue": 92068.8,
+
+          "fa_cpp": 21.6,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "UK- Search - BRND - 5",
+
+          "cost": 0,
+
+          "fa_revenue": 87459.2,
+
+          "fa_cpp": 0.000012345,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "UK - PROS - CONVERSION - 16",
+
+          "cost": 103109.4,
+
+          "fa_revenue": 86790.9,
+
+          "fa_cpp": 71.8,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "US- Search - GNRC - 60",
+
+          "cost": 0,
+
+          "fa_revenue": 68000.9,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "UK - PROS - CONVERSION - 15",
+
+          "cost": 88369.1,
+
+          "fa_revenue": 67777.8,
+
+          "fa_cpp": 77.9,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "EU- Search - BRND - 3",
+
+          "cost": 2300.6,
+
+          "fa_revenue": 56994.9,
+
+          "fa_cpp": 0.000012345,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "UK - RTRG - CONVERSION - 6",
+
+          "cost": 13723.5,
+
+          "fa_revenue": 46807.4,
+
+          "fa_cpp": 17.7,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "UK- Search - BRND - 3",
+
+          "cost": 7029.4,
+
+          "fa_revenue": 44342.3,
+
+          "fa_cpp": 0.000012345,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "US - PROS - CONVERSION - 5",
+
+          "cost": 3328.1,
+
+          "fa_revenue": 43433.9,
+
+          "fa_cpp": 13.2,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "UK - PROS - CONVERSION - 9",
+
+          "cost": 31903,
+
+          "fa_revenue": 43165.9,
+
+          "fa_cpp": 45.5,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "US - RTRG - CONVERSION - 21",
+
+          "cost": 5691.4,
+
+          "fa_revenue": 42022.2,
+
+          "fa_cpp": 23.2,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "PMAX - Shopping - UK - 5",
+
+          "cost": 16363.2,
+
+          "fa_revenue": 41002.5,
+
+          "fa_cpp": 23.2,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 397",
+
+          "cost": 0,
+
+          "fa_revenue": 40151.4,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 433",
+
+          "cost": 0,
+
+          "fa_revenue": 39750.6,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "US- Search - GNRC - 56",
+
+          "cost": 3787.6,
+
+          "fa_revenue": 39667.9,
+
+          "fa_cpp": 16.3,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "US - PROS - CONVERSION - 4",
+
+          "cost": 2693,
+
+          "fa_revenue": 38277.4,
+
+          "fa_cpp": 11.9,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "US- Search - GNRC - 59",
+
+          "cost": 4374.1,
+
+          "fa_revenue": 34731.1,
+
+          "fa_cpp": 21.3,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 393",
+
+          "cost": 0,
+
+          "fa_revenue": 32942.3,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "UK - RTRG - CONVERSION - 4",
+
+          "cost": 14900.3,
+
+          "fa_revenue": 32133.8,
+
+          "fa_cpp": 27.8,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 421",
+
+          "cost": 0,
+
+          "fa_revenue": 32128.4,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 417",
+
+          "cost": 0,
+
+          "fa_revenue": 31614.2,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "PMAX - Shopping - EU - 14",
+
+          "cost": 5402.5,
+
+          "fa_revenue": 30886,
+
+          "fa_cpp": 6.9,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "EU - PROS - CONVERSION - 8",
+
+          "cost": 12718.7,
+
+          "fa_revenue": 30578,
+
+          "fa_cpp": 16.5,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 140",
+
+          "cost": 0,
+
+          "fa_revenue": 29459.4,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "US - RTRG - CONVERSION - 23",
+
+          "cost": 4597.5,
+
+          "fa_revenue": 29063.1,
+
+          "fa_cpp": 26.9,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Affiliates campaign 8",
+
+          "cost": 0,
+
+          "fa_revenue": 27866.7,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "US - PROS - CONVERSION - 3",
+
+          "cost": 2708,
+
+          "fa_revenue": 27597.2,
+
+          "fa_cpp": 16.7,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "US - RTRG - CONVERSION - 22",
+
+          "cost": 2631,
+
+          "fa_revenue": 26667.7,
+
+          "fa_cpp": 16.9,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 412",
+
+          "cost": 0,
+
+          "fa_revenue": 25984.3,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 7",
+
+          "cost": 0,
+
+          "fa_revenue": 24507.8,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "EU - RTRG - CONVERSION - 1",
+
+          "cost": 6906.4,
+
+          "fa_revenue": 24482.5,
+
+          "fa_cpp": 11.6,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 403",
+
+          "cost": 0,
+
+          "fa_revenue": 24384.5,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "PMAX - Shopping - EU - 16",
+
+          "cost": 5404.5,
+
+          "fa_revenue": 23886.9,
+
+          "fa_cpp": 8.9,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 402",
+
+          "cost": 0,
+
+          "fa_revenue": 23879.2,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "PMAX - Shopping - UK - 1",
+
+          "cost": 2618.5,
+
+          "fa_revenue": 23289.5,
+
+          "fa_cpp": 6.3,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "UK - PROS - CONVERSION - 12",
+
+          "cost": 29329.2,
+
+          "fa_revenue": 22710.6,
+
+          "fa_cpp": 78.9,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "UK - PROS - CONVERSION - 14",
+
+          "cost": 24999.8,
+
+          "fa_revenue": 22668.9,
+
+          "fa_cpp": 67.4,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 399",
+
+          "cost": 0,
+
+          "fa_revenue": 22061.4,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "US- Search - GNRC - 55",
+
+          "cost": 1854.3,
+
+          "fa_revenue": 21898.1,
+
+          "fa_cpp": 14.6,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "US- Search - GNRC - 51",
+
+          "cost": 1705.4,
+
+          "fa_revenue": 21546.4,
+
+          "fa_cpp": 13.7,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "UK - PROS - AWARENESS - 3",
+
+          "cost": 57892,
+
+          "fa_revenue": 20875,
+
+          "fa_cpp": 181,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "PMAX - Shopping - UK - 3",
+
+          "cost": 0,
+
+          "fa_revenue": 19438.5,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 401",
+
+          "cost": 0,
+
+          "fa_revenue": 19210.6,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 2",
+
+          "cost": 0,
+
+          "fa_revenue": 18557.4,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "UK - PROS - CONSIDERATION - 1",
+
+          "cost": 2923.8,
+
+          "fa_revenue": 18453.4,
+
+          "fa_cpp": 10.4,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "PMAX - Shopping - UK - 4",
+
+          "cost": 6727.2,
+
+          "fa_revenue": 17586.2,
+
+          "fa_cpp": 23.1,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "PMAX - Shopping - UK - 2",
+
+          "cost": 7165,
+
+          "fa_revenue": 17368.2,
+
+          "fa_cpp": 24.8,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "EU - PROS - CONVERSION - 9",
+
+          "cost": 0,
+
+          "fa_revenue": 16420,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "EU - PROS - CONVERSION - 7",
+
+          "cost": 2565.7,
+
+          "fa_revenue": 16005,
+
+          "fa_cpp": 5.8,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "PMAX - Shopping - EU - 15",
+
+          "cost": 2766.5,
+
+          "fa_revenue": 15927.8,
+
+          "fa_cpp": 7.1,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 138",
+
+          "cost": 0,
+
+          "fa_revenue": 15923.6,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 137",
+
+          "cost": 0,
+
+          "fa_revenue": 15224.1,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 379",
+
+          "cost": 0,
+
+          "fa_revenue": 15099,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "UK - RTRG - CONVERSION - 3",
+
+          "cost": 9189.3,
+
+          "fa_revenue": 15005.6,
+
+          "fa_cpp": 38.2,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "PMAX - Shopping - US - 3",
+
+          "cost": 0,
+
+          "fa_revenue": 14961.4,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 5",
+
+          "cost": 0,
+
+          "fa_revenue": 14902.4,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 4",
+
+          "cost": 0,
+
+          "fa_revenue": 14448.9,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "EU - PROS - CONVERSION - 6",
+
+          "cost": 17641.9,
+
+          "fa_revenue": 12864.9,
+
+          "fa_cpp": 56.8,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 456",
+
+          "cost": 0,
+
+          "fa_revenue": 12814.4,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "EU - PROS - CONVERSION - 10",
+
+          "cost": 0,
+
+          "fa_revenue": 12758.1,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Affiliates campaign 64",
+
+          "cost": 0,
+
+          "fa_revenue": 12620.8,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "EU - PROS - CONVERSION - 5",
+
+          "cost": 16504.9,
+
+          "fa_revenue": 12322.3,
+
+          "fa_cpp": 55.3,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "US - RTRG - CONVERSION - 6",
+
+          "cost": 1165.5,
+
+          "fa_revenue": 12008.5,
+
+          "fa_cpp": 16.4,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 3",
+
+          "cost": 0,
+
+          "fa_revenue": 11972.7,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Affiliates campaign 65",
+
+          "cost": 0,
+
+          "fa_revenue": 11895.9,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "EU - PROS - CONSIDERATION - 8",
+
+          "cost": 2282.6,
+
+          "fa_revenue": 11353.1,
+
+          "fa_cpp": 8.3,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 363",
+
+          "cost": 0,
+
+          "fa_revenue": 11260.7,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "EU - RTRG - CONVERSION - 5",
+
+          "cost": 6220.1,
+
+          "fa_revenue": 11182.2,
+
+          "fa_cpp": 23.1,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 415",
+
+          "cost": 0,
+
+          "fa_revenue": 11160.2,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "EU- Search - GNRC - 18",
+
+          "cost": 2610.2,
+
+          "fa_revenue": 10932,
+
+          "fa_cpp": 9.4,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 370",
+
+          "cost": 0,
+
+          "fa_revenue": 10912.6,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 364",
+
+          "cost": 0,
+
+          "fa_revenue": 10869.6,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "UK- Search - GNRC - 11",
+
+          "cost": 4552.2,
+
+          "fa_revenue": 10775.6,
+
+          "fa_cpp": 25.1,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 136",
+
+          "cost": 0,
+
+          "fa_revenue": 10417.2,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "UK- Search - GNRC - 12",
+
+          "cost": 4081.8,
+
+          "fa_revenue": 10308.8,
+
+          "fa_cpp": 23.8,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "US- Search - GNRC - 54",
+
+          "cost": 1645.8,
+
+          "fa_revenue": 10286.3,
+
+          "fa_cpp": 27,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "US- Search - GNRC - 49",
+
+          "cost": 373.8,
+
+          "fa_revenue": 10188.2,
+
+          "fa_cpp": 6.3,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 383",
+
+          "cost": 0,
+
+          "fa_revenue": 10092.1,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 395",
+
+          "cost": 0,
+
+          "fa_revenue": 10088.3,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "EU - PROS - CONVERSION - 4",
+
+          "cost": 12296,
+
+          "fa_revenue": 9864.2,
+
+          "fa_cpp": 51.2,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 362",
+
+          "cost": 0,
+
+          "fa_revenue": 9663.7,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "US - RTRG - CONVERSION - 5",
+
+          "cost": 1168.6,
+
+          "fa_revenue": 9373.5,
+
+          "fa_cpp": 21.2,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "US - RTRG - CONVERSION - 20",
+
+          "cost": 1634.8,
+
+          "fa_revenue": 9360.2,
+
+          "fa_cpp": 29.9,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 6",
+
+          "cost": 0,
+
+          "fa_revenue": 9265.7,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 357",
+
+          "cost": 0,
+
+          "fa_revenue": 9222,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "US- Search - BRND - 2",
+
+          "cost": 679.8,
+
+          "fa_revenue": 9194.1,
+
+          "fa_cpp": 0.000012345,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "US- Shopping - 3",
+
+          "cost": 2149.4,
+
+          "fa_revenue": 9174.6,
+
+          "fa_cpp": 39.2,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "UK - RTRG - CONVERSION - 1",
+
+          "cost": 1477.4,
+
+          "fa_revenue": 9104.5,
+
+          "fa_cpp": 10.9,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "US- Search - GNRC - 48",
+
+          "cost": 612.2,
+
+          "fa_revenue": 8892.1,
+
+          "fa_cpp": 11.7,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 369",
+
+          "cost": 0,
+
+          "fa_revenue": 8776.6,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Affiliates campaign 63",
+
+          "cost": 0,
+
+          "fa_revenue": 8730.5,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "EU - RTRG - CONVERSION - 4",
+
+          "cost": 1222.2,
+
+          "fa_revenue": 8579.2,
+
+          "fa_cpp": 5.1,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "EU- Search - GNRC - 15",
+
+          "cost": 1602.5,
+
+          "fa_revenue": 8415.4,
+
+          "fa_cpp": 7.5,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 387",
+
+          "cost": 0,
+
+          "fa_revenue": 8328.1,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "UK- Search - BRND - 2",
+
+          "cost": 2656.8,
+
+          "fa_revenue": 8238.3,
+
+          "fa_cpp": 0.000012345,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 351",
+
+          "cost": 0,
+
+          "fa_revenue": 8185.7,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "PMAX - Shopping - EU - 11",
+
+          "cost": 0,
+
+          "fa_revenue": 7482.1,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 449",
+
+          "cost": 0,
+
+          "fa_revenue": 7458.1,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 134",
+
+          "cost": 0,
+
+          "fa_revenue": 7438.2,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 132",
+
+          "cost": 0,
+
+          "fa_revenue": 7316.6,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 390",
+
+          "cost": 0,
+
+          "fa_revenue": 7156.9,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "UK- Search - GNRC - 10",
+
+          "cost": 0,
+
+          "fa_revenue": 7087.6,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 343",
+
+          "cost": 0,
+
+          "fa_revenue": 6762.1,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 452",
+
+          "cost": 0,
+
+          "fa_revenue": 6537,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Affiliates campaign 62",
+
+          "cost": 0,
+
+          "fa_revenue": 6514.2,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 444",
+
+          "cost": 0,
+
+          "fa_revenue": 6416.1,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "EU - RTRG - CONVERSION - 8",
+
+          "cost": 0,
+
+          "fa_revenue": 6222,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "EU- Search - BRND - 2",
+
+          "cost": 0,
+
+          "fa_revenue": 6138.6,
+
+          "fa_cpp": 0.000012345,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "US - RTRG - CONVERSION - 18",
+
+          "cost": 1573.4,
+
+          "fa_revenue": 6107.3,
+
+          "fa_cpp": 44.6,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Affiliates campaign 57",
+
+          "cost": 0,
+
+          "fa_revenue": 6090,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 391",
+
+          "cost": 0,
+
+          "fa_revenue": 6042.3,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "UK - PROS - AWARENESS - 2",
+
+          "cost": 15844.7,
+
+          "fa_revenue": 6039.3,
+
+          "fa_cpp": 170.4,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 435",
+
+          "cost": 0,
+
+          "fa_revenue": 5984.5,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 339",
+
+          "cost": 0,
+
+          "fa_revenue": 5959.5,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 338",
+
+          "cost": 0,
+
+          "fa_revenue": 5920.9,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 8",
+
+          "cost": 0,
+
+          "fa_revenue": 5888.6,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "UK - RMKT - CONVERSION - 2",
+
+          "cost": 2197.4,
+
+          "fa_revenue": 5873.9,
+
+          "fa_cpp": 24.1,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 9",
+
+          "cost": 0,
+
+          "fa_revenue": 5812.3,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "EU - RTRG - CONVERSION - 3",
+
+          "cost": 1585.4,
+
+          "fa_revenue": 5449.6,
+
+          "fa_cpp": 11.6,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 62",
+
+          "cost": 0,
+
+          "fa_revenue": 5434.3,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 451",
+
+          "cost": 0,
+
+          "fa_revenue": 5061.7,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 130",
+
+          "cost": 0,
+
+          "fa_revenue": 5055.6,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 333",
+
+          "cost": 0,
+
+          "fa_revenue": 4603.5,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "UK - PROS - CONVERSION - 10",
+
+          "cost": 4813.5,
+
+          "fa_revenue": 4539.5,
+
+          "fa_cpp": 61.4,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 133",
+
+          "cost": 0,
+
+          "fa_revenue": 4402.1,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "UK - PROS - CONVERSION - 5",
+
+          "cost": 1967.3,
+
+          "fa_revenue": 4387.2,
+
+          "fa_cpp": 28.8,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Affiliates campaign 56",
+
+          "cost": 0,
+
+          "fa_revenue": 4379.7,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 323",
+
+          "cost": 0,
+
+          "fa_revenue": 4365.8,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 51",
+
+          "cost": 0,
+
+          "fa_revenue": 4202.9,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 318",
+
+          "cost": 0,
+
+          "fa_revenue": 4075.8,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 321",
+
+          "cost": 0,
+
+          "fa_revenue": 4066.8,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 125",
+
+          "cost": 0,
+
+          "fa_revenue": 4029.6,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 1",
+
+          "cost": 0,
+
+          "fa_revenue": 4007.1,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "UK- Search - GNRC - 13",
+
+          "cost": 1073.3,
+
+          "fa_revenue": 3894.1,
+
+          "fa_cpp": 16.4,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 320",
+
+          "cost": 0,
+
+          "fa_revenue": 3877.1,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 316",
+
+          "cost": 0,
+
+          "fa_revenue": 3729.6,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 20",
+
+          "cost": 0,
+
+          "fa_revenue": 3688.2,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 319",
+
+          "cost": 0,
+
+          "fa_revenue": 3680.4,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "US - RTRG - CONVERSION - 4",
+
+          "cost": 343.7,
+
+          "fa_revenue": 3485,
+
+          "fa_cpp": 16.8,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 21",
+
+          "cost": 0,
+
+          "fa_revenue": 3277.7,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "PMAX - Shopping - EU - 13",
+
+          "cost": 607.3,
+
+          "fa_revenue": 3198.6,
+
+          "fa_cpp": 7.4,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "US - RTRG - CONVERSION - 3",
+
+          "cost": 345.1,
+
+          "fa_revenue": 3198.6,
+
+          "fa_cpp": 18.7,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 367",
+
+          "cost": 0,
+
+          "fa_revenue": 3183.8,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 307",
+
+          "cost": 0,
+
+          "fa_revenue": 3136.4,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 356",
+
+          "cost": 0,
+
+          "fa_revenue": 3121.7,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Affiliates campaign 7",
+
+          "cost": 0,
+
+          "fa_revenue": 3110.4,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 14",
+
+          "cost": 0,
+
+          "fa_revenue": 3061.3,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "PMAX - Shopping - EU - 12",
+
+          "cost": 685.3,
+
+          "fa_revenue": 3036.2,
+
+          "fa_cpp": 8.5,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 122",
+
+          "cost": 0,
+
+          "fa_revenue": 3027.6,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 431",
+
+          "cost": 0,
+
+          "fa_revenue": 2994.6,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "UK- Search - GNRC - 5",
+
+          "cost": 1705.4,
+
+          "fa_revenue": 2870.1,
+
+          "fa_cpp": 34.4,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 18",
+
+          "cost": 0,
+
+          "fa_revenue": 2465.5,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 15",
+
+          "cost": 0,
+
+          "fa_revenue": 2459.6,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 297",
+
+          "cost": 0,
+
+          "fa_revenue": 2390.3,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Affiliates campaign 58",
+
+          "cost": 0,
+
+          "fa_revenue": 2379.2,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 396",
+
+          "cost": 0,
+
+          "fa_revenue": 2342.7,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "EU - RTRG - CONVERSION - 2",
+
+          "cost": 1077,
+
+          "fa_revenue": 2255,
+
+          "fa_cpp": 19.3,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 292",
+
+          "cost": 0,
+
+          "fa_revenue": 2170,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 293",
+
+          "cost": 0,
+
+          "fa_revenue": 2111.9,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "UK - PROS - CONVERSION - 3",
+
+          "cost": 1362.9,
+
+          "fa_revenue": 2076.5,
+
+          "fa_cpp": 41.1,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 13",
+
+          "cost": 0,
+
+          "fa_revenue": 2072.9,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 268",
+
+          "cost": 0,
+
+          "fa_revenue": 2063.1,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 278",
+
+          "cost": 0,
+
+          "fa_revenue": 2007,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 39",
+
+          "cost": 0,
+
+          "fa_revenue": 2004.7,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 10",
+
+          "cost": 0,
+
+          "fa_revenue": 1999.5,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 269",
+
+          "cost": 0,
+
+          "fa_revenue": 1991.4,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 53",
+
+          "cost": 0,
+
+          "fa_revenue": 1983.9,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Affiliates campaign 60",
+
+          "cost": 0,
+
+          "fa_revenue": 1972.6,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "EU- Search - GNRC - 14",
+
+          "cost": 0,
+
+          "fa_revenue": 1967,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 50",
+
+          "cost": 0,
+
+          "fa_revenue": 1938.2,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 16",
+
+          "cost": 0,
+
+          "fa_revenue": 1937.1,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 385",
+
+          "cost": 0,
+
+          "fa_revenue": 1872.8,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 34",
+
+          "cost": 0,
+
+          "fa_revenue": 1794.5,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "US- Search - GNRC - 46",
+
+          "cost": 86.1,
+
+          "fa_revenue": 1783.9,
+
+          "fa_cpp": 8.1,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 275",
+
+          "cost": 0,
+
+          "fa_revenue": 1757.4,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 17",
+
+          "cost": 0,
+
+          "fa_revenue": 1753.9,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "EU - RTRG - CONVERSION - 6",
+
+          "cost": 698.9,
+
+          "fa_revenue": 1694.4,
+
+          "fa_cpp": 17.7,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 325",
+
+          "cost": 0,
+
+          "fa_revenue": 1694.1,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 274",
+
+          "cost": 0,
+
+          "fa_revenue": 1686.5,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 281",
+
+          "cost": 0,
+
+          "fa_revenue": 1636.9,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "UK- Search - GNRC - 6",
+
+          "cost": 883.6,
+
+          "fa_revenue": 1577.8,
+
+          "fa_cpp": 31.7,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 259",
+
+          "cost": 0,
+
+          "fa_revenue": 1538,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 373",
+
+          "cost": 0,
+
+          "fa_revenue": 1514.7,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "UK- Search - GNRC - 3",
+
+          "cost": 2244.8,
+
+          "fa_revenue": 1493.8,
+
+          "fa_cpp": 86.4,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 35",
+
+          "cost": 0,
+
+          "fa_revenue": 1477.8,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 263",
+
+          "cost": 0,
+
+          "fa_revenue": 1472.6,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 366",
+
+          "cost": 0,
+
+          "fa_revenue": 1418.8,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 434",
+
+          "cost": 0,
+
+          "fa_revenue": 1394.6,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 106",
+
+          "cost": 0,
+
+          "fa_revenue": 1364.9,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "PMAX - Shopping - EU - 9",
+
+          "cost": 300.3,
+
+          "fa_revenue": 1344.2,
+
+          "fa_cpp": 8.6,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 381",
+
+          "cost": 0,
+
+          "fa_revenue": 1314.1,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 388",
+
+          "cost": 0,
+
+          "fa_revenue": 1295.5,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 247",
+
+          "cost": 0,
+
+          "fa_revenue": 1280.7,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 11",
+
+          "cost": 0,
+
+          "fa_revenue": 1212.6,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 447",
+
+          "cost": 0,
+
+          "fa_revenue": 1193,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 368",
+
+          "cost": 0,
+
+          "fa_revenue": 1145.5,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Affiliates campaign 50",
+
+          "cost": 0,
+
+          "fa_revenue": 1120.6,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 352",
+
+          "cost": 0,
+
+          "fa_revenue": 1114.5,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 117",
+
+          "cost": 0,
+
+          "fa_revenue": 1104.6,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 12",
+
+          "cost": 0,
+
+          "fa_revenue": 1097.2,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "UK - PROS - CONVERSION - 4",
+
+          "cost": 356.9,
+
+          "fa_revenue": 1063.5,
+
+          "fa_cpp": 22.5,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Affiliates campaign 61",
+
+          "cost": 0,
+
+          "fa_revenue": 1026.3,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 358",
+
+          "cost": 0,
+
+          "fa_revenue": 1021.8,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "US- Search - BRND - 1",
+
+          "cost": 357.9,
+
+          "fa_revenue": 1014.3,
+
+          "fa_cpp": 0.000012345,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 377",
+
+          "cost": 0,
+
+          "fa_revenue": 1007.6,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "US- Search - BRND - 3",
+
+          "cost": 0,
+
+          "fa_revenue": 1000,
+
+          "fa_cpp": 0.000012345,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "UK- Search - GNRC - 4",
+
+          "cost": 479.9,
+
+          "fa_revenue": 996.9,
+
+          "fa_cpp": 27.1,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "US- Search - GNRC - 43",
+
+          "cost": 254.4,
+
+          "fa_revenue": 990.7,
+
+          "fa_cpp": 42.7,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "PMAX - Shopping - EU - 7",
+
+          "cost": 98.6,
+
+          "fa_revenue": 957.8,
+
+          "fa_cpp": 4,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 235",
+
+          "cost": 0,
+
+          "fa_revenue": 956.8,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 45",
+
+          "cost": 0,
+
+          "fa_revenue": 954.6,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "UK- Search - GNRC - 8",
+
+          "cost": 1145.6,
+
+          "fa_revenue": 936.2,
+
+          "fa_cpp": 75.9,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 43",
+
+          "cost": 0,
+
+          "fa_revenue": 932.7,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 303",
+
+          "cost": 0,
+
+          "fa_revenue": 908.6,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "UK- Search - GNRC - 9",
+
+          "cost": 0,
+
+          "fa_revenue": 885.4,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 394",
+
+          "cost": 0,
+
+          "fa_revenue": 852.8,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 224",
+
+          "cost": 0,
+
+          "fa_revenue": 834.9,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 30",
+
+          "cost": 0,
+
+          "fa_revenue": 827.9,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 405",
+
+          "cost": 0,
+
+          "fa_revenue": 794.1,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 310",
+
+          "cost": 0,
+
+          "fa_revenue": 784.3,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 410",
+
+          "cost": 0,
+
+          "fa_revenue": 779.8,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 305",
+
+          "cost": 0,
+
+          "fa_revenue": 768.8,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 418",
+
+          "cost": 0,
+
+          "fa_revenue": 755.5,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 439",
+
+          "cost": 0,
+
+          "fa_revenue": 748.6,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 398",
+
+          "cost": 0,
+
+          "fa_revenue": 747.7,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 33",
+
+          "cost": 0,
+
+          "fa_revenue": 712.8,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 25",
+
+          "cost": 0,
+
+          "fa_revenue": 676.8,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 225",
+
+          "cost": 0,
+
+          "fa_revenue": 671,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 32",
+
+          "cost": 0,
+
+          "fa_revenue": 667.8,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 57",
+
+          "cost": 0,
+
+          "fa_revenue": 659.9,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "EU- Search - GNRC - 12",
+
+          "cost": 132.3,
+
+          "fa_revenue": 652.3,
+
+          "fa_cpp": 7.9,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 41",
+
+          "cost": 0,
+
+          "fa_revenue": 645.8,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 249",
+
+          "cost": 0,
+
+          "fa_revenue": 641,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Affiliates campaign 43",
+
+          "cost": 0,
+
+          "fa_revenue": 634.7,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 218",
+
+          "cost": 0,
+
+          "fa_revenue": 621.4,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 298",
+
+          "cost": 0,
+
+          "fa_revenue": 611.3,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 36",
+
+          "cost": 0,
+
+          "fa_revenue": 602.5,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Affiliates campaign 42",
+
+          "cost": 0,
+
+          "fa_revenue": 595,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 44",
+
+          "cost": 0,
+
+          "fa_revenue": 592.6,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 38",
+
+          "cost": 0,
+
+          "fa_revenue": 581.1,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 52",
+
+          "cost": 0,
+
+          "fa_revenue": 563.5,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 264",
+
+          "cost": 0,
+
+          "fa_revenue": 540.5,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 355",
+
+          "cost": 0,
+
+          "fa_revenue": 522.8,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 205",
+
+          "cost": 0,
+
+          "fa_revenue": 519,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 37",
+
+          "cost": 0,
+
+          "fa_revenue": 518.9,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Affiliates campaign 53",
+
+          "cost": 0,
+
+          "fa_revenue": 507.2,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 206",
+
+          "cost": 0,
+
+          "fa_revenue": 498.8,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "EU- Search - GNRC - 16",
+
+          "cost": 144.9,
+
+          "fa_revenue": 498.2,
+
+          "fa_cpp": 11.4,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 195",
+
+          "cost": 0,
+
+          "fa_revenue": 494.4,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 371",
+
+          "cost": 0,
+
+          "fa_revenue": 485.9,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 335",
+
+          "cost": 0,
+
+          "fa_revenue": 483.3,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 266",
+
+          "cost": 0,
+
+          "fa_revenue": 478.7,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 42",
+
+          "cost": 0,
+
+          "fa_revenue": 473.5,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 55",
+
+          "cost": 0,
+
+          "fa_revenue": 463.1,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 312",
+
+          "cost": 0,
+
+          "fa_revenue": 447.4,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 441",
+
+          "cost": 0,
+
+          "fa_revenue": 437.4,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 354",
+
+          "cost": 0,
+
+          "fa_revenue": 429.3,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 256",
+
+          "cost": 0,
+
+          "fa_revenue": 419.3,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 261",
+
+          "cost": 0,
+
+          "fa_revenue": 418.8,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "US- Search - GNRC - 26",
+
+          "cost": 2.5,
+
+          "fa_revenue": 415.8,
+
+          "fa_cpp": 1,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 29",
+
+          "cost": 0,
+
+          "fa_revenue": 411.6,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Affiliates campaign 40",
+
+          "cost": 0,
+
+          "fa_revenue": 408.2,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Affiliates campaign 44",
+
+          "cost": 0,
+
+          "fa_revenue": 407.6,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 450",
+
+          "cost": 0,
+
+          "fa_revenue": 402.3,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 429",
+
+          "cost": 0,
+
+          "fa_revenue": 402.2,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 250",
+
+          "cost": 0,
+
+          "fa_revenue": 392.9,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 427",
+
+          "cost": 0,
+
+          "fa_revenue": 390.5,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 404",
+
+          "cost": 0,
+
+          "fa_revenue": 381,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "US- Search - GNRC - 39",
+
+          "cost": 128.1,
+
+          "fa_revenue": 380.9,
+
+          "fa_cpp": 65.8,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Affiliates campaign 48",
+
+          "cost": 0,
+
+          "fa_revenue": 372.5,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 438",
+
+          "cost": 0,
+
+          "fa_revenue": 365.8,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 254",
+
+          "cost": 0,
+
+          "fa_revenue": 365,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 422",
+
+          "cost": 0,
+
+          "fa_revenue": 364.7,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Affiliates campaign 49",
+
+          "cost": 0,
+
+          "fa_revenue": 363.9,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "EU- Search - GNRC - 9",
+
+          "cost": 53.1,
+
+          "fa_revenue": 362.5,
+
+          "fa_cpp": 6.2,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Affiliates campaign 45",
+
+          "cost": 0,
+
+          "fa_revenue": 356.7,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 27",
+
+          "cost": 0,
+
+          "fa_revenue": 351.5,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 382",
+
+          "cost": 0,
+
+          "fa_revenue": 349.8,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 301",
+
+          "cost": 0,
+
+          "fa_revenue": 347.1,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 19",
+
+          "cost": 0,
+
+          "fa_revenue": 342.2,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 437",
+
+          "cost": 0,
+
+          "fa_revenue": 335.4,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 221",
+
+          "cost": 0,
+
+          "fa_revenue": 332.5,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 26",
+
+          "cost": 0,
+
+          "fa_revenue": 325.7,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 378",
+
+          "cost": 0,
+
+          "fa_revenue": 324.8,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 360",
+
+          "cost": 0,
+
+          "fa_revenue": 315.4,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 353",
+
+          "cost": 0,
+
+          "fa_revenue": 315.4,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 430",
+
+          "cost": 0,
+
+          "fa_revenue": 296.1,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 340",
+
+          "cost": 0,
+
+          "fa_revenue": 296.1,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Affiliates campaign 51",
+
+          "cost": 0,
+
+          "fa_revenue": 283.2,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 54",
+
+          "cost": 0,
+
+          "fa_revenue": 281,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Affiliates campaign 39",
+
+          "cost": 0,
+
+          "fa_revenue": 280.6,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 350",
+
+          "cost": 0,
+
+          "fa_revenue": 275.6,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "EU- Search - GNRC - 10",
+
+          "cost": 88.9,
+
+          "fa_revenue": 275.4,
+
+          "fa_cpp": 13.8,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "EU- Search - GNRC - 7",
+
+          "cost": 0,
+
+          "fa_revenue": 254.5,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 359",
+
+          "cost": 0,
+
+          "fa_revenue": 232.9,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 40",
+
+          "cost": 0,
+
+          "fa_revenue": 228.6,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "EU - PROS - CONSIDERATION - 6",
+
+          "cost": 10.8,
+
+          "fa_revenue": 221.9,
+
+          "fa_cpp": 2.1,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 386",
+
+          "cost": 0,
+
+          "fa_revenue": 218.4,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 86",
+
+          "cost": 0,
+
+          "fa_revenue": 208.2,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 58",
+
+          "cost": 0,
+
+          "fa_revenue": 206.8,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 300",
+
+          "cost": 0,
+
+          "fa_revenue": 192.7,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 31",
+
+          "cost": 0,
+
+          "fa_revenue": 185,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 24",
+
+          "cost": 0,
+
+          "fa_revenue": 158.2,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 210",
+
+          "cost": 0,
+
+          "fa_revenue": 141.6,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 170",
+
+          "cost": 0,
+
+          "fa_revenue": 128,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 279",
+
+          "cost": 0,
+
+          "fa_revenue": 120.5,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Affiliates campaign 59",
+
+          "cost": 0,
+
+          "fa_revenue": 118.6,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 314",
+
+          "cost": 0,
+
+          "fa_revenue": 116.5,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "UK- Search - GNRC - 2",
+
+          "cost": 128.3,
+
+          "fa_revenue": 115.1,
+
+          "fa_cpp": 68.1,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Affiliates campaign 52",
+
+          "cost": 0,
+
+          "fa_revenue": 112.4,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 328",
+
+          "cost": 0,
+
+          "fa_revenue": 108.2,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 49",
+
+          "cost": 0,
+
+          "fa_revenue": 107.4,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Affiliates campaign 35",
+
+          "cost": 0,
+
+          "fa_revenue": 104,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Affiliates campaign 33",
+
+          "cost": 0,
+
+          "fa_revenue": 103.9,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "UK - PROS - CONVERSION - 13",
+
+          "cost": 0,
+
+          "fa_revenue": 103.8,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "UK- Shopping - 1",
+
+          "cost": 0,
+
+          "fa_revenue": 102.5,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 365",
+
+          "cost": 0,
+
+          "fa_revenue": 99.3,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 232",
+
+          "cost": 0,
+
+          "fa_revenue": 95.7,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 294",
+
+          "cost": 0,
+
+          "fa_revenue": 88.8,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Affiliates campaign 29",
+
+          "cost": 0,
+
+          "fa_revenue": 76.7,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Affiliates campaign 38",
+
+          "cost": 0,
+
+          "fa_revenue": 64.6,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "EU - PROS - CONSIDERATION - 9",
+
+          "cost": 0,
+
+          "fa_revenue": 59.6,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Affiliates campaign 37",
+
+          "cost": 0,
+
+          "fa_revenue": 55.2,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 63",
+
+          "cost": 0,
+
+          "fa_revenue": 53.4,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 48",
+
+          "cost": 0,
+
+          "fa_revenue": 50.4,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 139",
+
+          "cost": 0,
+
+          "fa_revenue": 50.1,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "UK - PROS - CONVERSION - 1",
+
+          "cost": 32.9,
+
+          "fa_revenue": 43.3,
+
+          "fa_cpp": 50.8,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 95",
+
+          "cost": 0,
+
+          "fa_revenue": 42.7,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "EU - PROS - CONSIDERATION - 5",
+
+          "cost": 9,
+
+          "fa_revenue": 38.4,
+
+          "fa_cpp": 9.4,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "EU- Search - GNRC - 11",
+
+          "cost": 47.9,
+
+          "fa_revenue": 36.2,
+
+          "fa_cpp": 47.3,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "EU - PROS - CONVERSION - 2",
+
+          "cost": 116.9,
+
+          "fa_revenue": 29.2,
+
+          "fa_cpp": 162.4,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "UK- Shopping - 2",
+
+          "cost": 0,
+
+          "fa_revenue": 26.2,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 200",
+
+          "cost": 0,
+
+          "fa_revenue": 8.6,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 322",
+
+          "cost": 0,
+
+          "fa_revenue": 1.5,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 126",
+
+          "cost": 0,
+
+          "fa_revenue": 0.8,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 251",
+
+          "cost": 0,
+
+          "fa_revenue": 0.6,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 243",
+
+          "cost": 0,
+
+          "fa_revenue": 0.4,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 331",
+
+          "cost": 0,
+
+          "fa_revenue": 0.3,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 28",
+
+          "cost": 0,
+
+          "fa_revenue": 0.2,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Affiliates campaign 34",
+
+          "cost": 0,
+
+          "fa_revenue": 0.1,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Affiliates campaign 13",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 193",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 442",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 168",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 114",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Affiliates campaign 14",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "US- Search - GNRC - 47",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 154",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 69",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "EU -   - CONVERSION - 3",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 150",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 238",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 100",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 85",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 164",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 23",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "EU - RTRG - CONVERSION - 7",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Affiliates campaign 54",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Affiliates campaign 24",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 407",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 66",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 282",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 60",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 289",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 121",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 380",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 273",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 167",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 245",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 446",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "US- Search - GNRC - 44",
+
+          "cost": 46.1,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 413",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 98",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "UK - PROS - CONVERSION - 2",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 129",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 425",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 171",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "EU -   - CONVERSION - 8",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 90",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 145",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "EU -   - CONVERSION - 2",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 68",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 213",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 436",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 428",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "US- Search - GNRC - 21",
+
+          "cost": 303.8,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 212",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 118",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 420",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 392",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "EU- Search - BRND - 1",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0.000012345,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 74",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 280",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 111",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 296",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 186",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "UK -   -   - 1",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "EU -   - CONVERSION - 5",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "EU -   -   - 2",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 260",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Affiliates campaign 6",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 277",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Affiliates campaign 5",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 347",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "UK -   -   - 2",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 22",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "EU -   - CONVERSION - 7",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 110",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "EU -   - CONVERSION - 6",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 313",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 131",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 135",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 214",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 299",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "EU -   -   - 1",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 315",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 166",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 344",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 286",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 82",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 116",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 414",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 241",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 201",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 329",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 188",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "US- Search - GNRC - 52",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 432",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 149",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 156",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 306",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 374",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 147",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "US- Search - GNRC - 58",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 108",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 144",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 47",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 169",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 295",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 246",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Affiliates campaign 12",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 287",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 334",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Affiliates campaign 31",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 123",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 191",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "EU- Search - GNRC - 5",
+
+          "cost": 5.4,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 233",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 253",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 283",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 400",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 219",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "US -   -   - 13",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "US -   -   - 11",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "EU -   - CONVERSION - 13",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 349",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "UK- Search - GNRC - 7",
+
+          "cost": 9.1,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 113",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 337",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "EU -   - CONVERSION - 1",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 196",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 454",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Affiliates campaign 1",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "UK -   - CONVERSION - 4",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 372",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "EU -   - CONVERSION - 12",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 61",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "EU -   - CONVERSION - 10",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 103",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "US- Search - GNRC - 20",
+
+          "cost": 820.3,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "EU -   -   - 5",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Affiliates campaign 22",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "UK- Search - BRND - 1",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0.000012345,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 327",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 215",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 234",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Affiliates campaign 26",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Affiliates campaign 23",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 153",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 361",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 59",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 143",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "Email campaign 105",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        },
+
+        {
+          "campaign_name": "US- Search - GNRC - 36",
+
+          "cost": 0,
+
+          "fa_revenue": 0,
+
+          "fa_cpp": 0,
+
+          "cpp_target": 20
+        }
+      ]
+    }
+  }
+}
