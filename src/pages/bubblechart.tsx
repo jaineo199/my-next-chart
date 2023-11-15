@@ -8,7 +8,7 @@ import {
   LogarithmicScale,
 } from "chart.js";
 import { Bubble } from "react-chartjs-2";
-import annotationPlugin from "chartjs-plugin-annotation";
+import annotationPlugin, { AnnotationOptions } from "chartjs-plugin-annotation";
 import BubbleChartMainData from "../Data/bubbleChartMainData.json";
 
 ChartJS.defaults.borderColor = "rgba(243,243,243,0.50)";
@@ -50,6 +50,20 @@ export default function App() {
             yMax: 20,
             borderColor: "rgb(255, 99, 132)",
             borderWidth: 2,
+            label: {
+              display: true,
+              backgroundColor: "green",
+              drawTime: "afterDatasetsDraw",
+              content: "Some content for tooltip",
+            },
+            enter({ element }: any, event: any) {
+              element.label.options.display = true;
+              return true; // force update
+            },
+            leave({ element }: any, event: any) {
+              element.label.options.display = false;
+              return true;
+            },
           },
         },
       },
