@@ -8,12 +8,18 @@ import {
   LogarithmicScale,
 } from "chart.js";
 import { Bubble } from "react-chartjs-2";
-import BubbleChartOneData from "../Data/bubbleChartOneData.json";
-import BubbleChartThreeData from "../Data/bubbleChartThreeData.json";
+import annotationPlugin from "chartjs-plugin-annotation";
 import BubbleChartMainData from "../Data/bubbleChartMainData.json";
 
 ChartJS.defaults.borderColor = "rgba(243,243,243,0.50)";
-ChartJS.register(LinearScale, PointElement, Tooltip, Legend, LogarithmicScale);
+ChartJS.register(
+  LinearScale,
+  PointElement,
+  Tooltip,
+  Legend,
+  LogarithmicScale,
+  annotationPlugin
+);
 
 export default function App() {
   const [mainData, setMainData] = useState<any>(null);
@@ -36,9 +42,19 @@ export default function App() {
         },
         backgroundColor: "#000000",
       },
+      annotation: {
+        annotations: {
+          line1: {
+            type: "line",
+            yMin: 20,
+            yMax: 20,
+            borderColor: "rgb(255, 99, 132)",
+            borderWidth: 2,
+          },
+        },
+      },
       legend: {
         display: false,
-        // position: "bottom",
       },
     },
     scales: {
@@ -57,14 +73,7 @@ export default function App() {
         },
         ticks: {
           callback: function (value: any, index: any, values: any) {
-            // Display first, quarter, middle, three-quarter and last label
-            return index === 0 ||
-              // index === Math.floor(values.length / 4) ||
-              // index === Math.floor(values.length / 2) ||
-              // index === Math.floor((3 * values.length) / 4) ||
-              index === values.length - 1
-              ? value
-              : "";
+            return index === 0 || index === values.length - 1 ? value : "";
           },
         },
       },
@@ -83,14 +92,7 @@ export default function App() {
         },
         ticks: {
           callback: function (value: any, index: any, values: any) {
-            // Display first, quarter, middle, three-quarter and last label
-            return index === 0 ||
-              // index === Math.floor(values.length / 4) ||
-              // index === Math.floor(values.length / 2) ||
-              // index === Math.floor((3 * values.length) / 4) ||
-              index === values.length - 1
-              ? value
-              : "";
+            return index === 0 || index === values.length - 1 ? value : "";
           },
         },
       },
@@ -117,12 +119,6 @@ export default function App() {
           }
         }),
       },
-
-      // {
-      //   label: "Target",
-      //   data: BubbleChartThreeData,
-      //   backgroundColor: "#c0ccc2",
-      // },
     ],
   };
 
