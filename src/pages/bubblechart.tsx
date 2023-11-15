@@ -26,6 +26,8 @@ export default function App() {
   const [targetData, setTargetData] = useState<any>(null);
 
   const options: any = {
+    responsive: true,
+    maintainAspectRatio: false,
     plugins: {
       tooltip: {
         callbacks: {
